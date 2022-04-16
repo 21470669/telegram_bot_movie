@@ -1,0 +1,7 @@
+telegram
+configparser
+python-telegram-bot>=13.1
+requests
+#redis
+pymongo
+pymongo[srv]
